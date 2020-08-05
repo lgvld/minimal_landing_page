@@ -1,2 +1,9 @@
-# minimal_landing_page
-a minimal landing page (just a centered image)
+# minimal landing page
+
+`minimal landing page` is a dead simple landing page (it’s just a centered image/text).
+
+
+## examples
+
+![](screenshots/screenshot_image.png)
+![](screenshots/screenshot_text.png)
